@@ -1,0 +1,23 @@
+/* .container {
+    border: 1px solid #333333;
+    box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, .2);
+    border-radius: 30px;
+    width: 324px;
+    height: 553px;
+}
+
+.container .cardd .weatherIcon img {
+    width: 150px;
+}
+
+.container .error {
+    justify-content: center;
+    text-align: center;
+} */
+
+.container .cards .advice {
+    color: #F2C4A2;
+    text-decoration: underline;
+}
+
+.container {}
